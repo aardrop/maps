@@ -1,7 +1,7 @@
 name: mapbox_gl_web
 description: Web platform implementation of mapbox_gl
 version: 0.16.0
-homepage: https://github.com/flutter-mapbox-gl/maps
+homepage: https://github.com/arkeri/maps
 
 flutter:
   plugin:
