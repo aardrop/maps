@@ -1,1 +1,1 @@
-Contains the web platform implementation for the [Flutter Mapbox GL plugin](https://github.com/flutter-mapbox-gl/maps).
+Contains the web platform implementation for the [Flutter Mapbox GL plugin](https://github.com/aardrop/maps).

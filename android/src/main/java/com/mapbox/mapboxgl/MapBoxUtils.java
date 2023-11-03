@@ -32,7 +32,7 @@ abstract class MapBoxUtils {
           TAG,
           "Failed to find an Access Token in the Application meta-data. Maps may not load"
               + " correctly. Please refer to the installation guide at"
-              + " https://github.com/flutter-mapbox-gl/maps#mapbox-access-token for"
+              + " https://github.com/aardrop/maps#mapbox-access-token for"
               + " troubleshooting advice."
               + e.getMessage());
     }
