@@ -3,17 +3,14 @@ description: A Flutter plugin for integrating Mapbox Maps inside a Flutter appli
 version: 0.16.0
 homepage: https://github.com/aardrop/maps
 
+publish_to: 'none'
 dependencies:
   flutter:
     sdk: flutter
   mapbox_gl_platform_interface:
-    git:
-      url: https://github.com/aardrop/maps.git
-      path: mapbox_gl_platform_interface
+    path: ./mapbox_gl_platform_interface
   mapbox_gl_web:
-    git:
-      url: https://github.com/aardrop/maps.git
-      path: mapbox_gl_web
+    path: ./mapbox_gl_web
   collection: ^1.15.0
 
 dependency_overrides:
